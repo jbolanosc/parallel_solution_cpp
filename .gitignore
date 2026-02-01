@@ -1,0 +1,4 @@
+suma_omp
+*.o
+.vscode/ipch
+.DS_Store
